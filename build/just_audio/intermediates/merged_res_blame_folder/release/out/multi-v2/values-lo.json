@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\just_audio\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "611",
+                        "endColumns": "100",
+                        "endOffsets": "707"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,167,269,365,484",
+                        "endColumns": "111,101,95,118,126",
+                        "endOffsets": "162,264,360,479,606"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\just_audio\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "611",
+                        "endColumns": "100",
+                        "endOffsets": "707"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,167,269,365,484",
+                        "endColumns": "111,101,95,118,126",
+                        "endOffsets": "162,264,360,479,606"
+                    }
+                }
+            ]
+        }
+    ]
+}

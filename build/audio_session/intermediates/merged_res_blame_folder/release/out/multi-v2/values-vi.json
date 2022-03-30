@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\audio_session\\intermediates\\res\\merged\\release\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,257,352,478",
+                        "endColumns": "101,99,94,125,129",
+                        "endOffsets": "152,252,347,473,603"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "608",
+                        "endColumns": "100",
+                        "endOffsets": "704"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\audio_session\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,257,352,478",
+                        "endColumns": "101,99,94,125,129",
+                        "endOffsets": "152,252,347,473,603"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "608",
+                        "endColumns": "100",
+                        "endOffsets": "704"
+                    }
+                }
+            ]
+        }
+    ]
+}

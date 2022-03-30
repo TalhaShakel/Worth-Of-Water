@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\ee648ad90c6b4f84a68156d791c47397\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\audio_session\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "1104",
+                        "endColumns": "202",
+                        "endOffsets": "1302"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,262,461,659,872",
+                        "endColumns": "206,198,197,212,231",
+                        "endOffsets": "257,456,654,867,1099"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\New folder\\main_file\\water_drinking_reminder\\build\\audio_session\\intermediates\\res\\merged\\release\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\3c8fd1bfddb99a7a7e21faa1397acdb4\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "1104",
+                        "endColumns": "202",
+                        "endOffsets": "1302"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Talha\\.gradle\\caches\\transforms-2\\files-2.1\\dd46eb103acdc955baefd5e371aaaec7\\jetified-media2-session-1.1.0-alpha01\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,262,461,659,872",
+                        "endColumns": "206,198,197,212,231",
+                        "endOffsets": "257,456,654,867,1099"
+                    }
+                }
+            ]
+        }
+    ]
+}
